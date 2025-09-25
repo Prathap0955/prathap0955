@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">My name is Prathap and I'm a Full Stack Developer.</p>
+<p align="left"> I'm a Full Stack Developer.</p>
 
 ###
 
