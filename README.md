@@ -10,7 +10,12 @@
 
 ###
 
-<p align="left">✨ Creating bugs since 2022 (but fixing most of them too 🚀)  <br>📚 I'm currently learning MERN stack, Data Structures & Algorithms, and interview prep  <br>🎯 Goals: Build real-world impactful projects, land a better-paying developer role, and grow into a strong full stack engineer  <br>🎲 Fun fact: I can debug for hours but sometimes forget a missing semicolon 😉</p>
+<p align="left">
+✨ Creating bugs since 2022 (but fixing most of them too 🚀)  
+<br>📚 I'm currently learning MERN stack, Data Structures & Algorithms, and interview prep  
+<br>🎯 Goals: Build real-world impactful projects, land a better-paying developer role, and grow into a strong full stack engineer  
+<br>🎲 Fun fact: I can debug for hours but sometimes forget a missing semicolon 😉
+</p>
 
 ###
 
@@ -38,7 +43,14 @@
 
 ###
 
-<div align="left">
-</div>
+<h2 align="left">Support Me ☕</h2>
+
+###
+
+<p align="left">
+  <a href="https://www.buymeacoffee.com/YOUR_USERNAME" target="_blank">
+    <img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me A Coffee" height="50" />
+  </a>
+</p>
 
 ###
